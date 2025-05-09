@@ -1,5 +1,8 @@
 # Status-Organiser
-A software to organise users and their status. It is not pretty but sometimes useful. DO NOT USE THIS FOR SENSITIVE DATA. THIS SOFTWARE IS REALLY NOT SECURE!!!!!
+A software to organise users and their status. It is not pretty but sometimes useful. 
+The Run.bat file and data folder are both needed!
+For better security you can hide the second data folder
+DO NOT USE THIS FOR SENSITIVE DATA. THIS SOFTWARE IS REALLY NOT SECURE!!!!!
 
 User-Instruction-Manual:
 
