@@ -1,5 +1,5 @@
 # Status-Organiser
-A software to organise users and their status. It is not pretty but sometimes useful.
+A software to organise users and their status. It is not pretty but sometimes useful. DO NOT USE THIS FOR SENSITIVE DATA. THIS SOFTWARE IS REALLY NOT SECURE!!!!!
 
 User-Instruction-Manual:
 
