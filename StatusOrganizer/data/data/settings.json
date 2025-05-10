@@ -2,9 +2,9 @@
   "logo_time": 1,
   "author_time": 1,
   "message_time": 1,
-  "text_color": "green",
-  "password": "123456789",
+  "text_color": "white",
+  "password": "12345",
   "fx": false,
   "sud": false,
-  "autovm": true
+  "autovm": false
 }
