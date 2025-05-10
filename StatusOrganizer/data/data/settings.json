@@ -1,0 +1,10 @@
+{
+  "logo_time": 1,
+  "author_time": 1,
+  "message_time": 1,
+  "text_color": "green",
+  "password": "123456789",
+  "fx": false,
+  "sud": false,
+  "autovm": true
+}
