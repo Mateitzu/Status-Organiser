@@ -372,8 +372,7 @@ if password == realpass:
             server = smtplib.SMTP("smtp.gmail.com", 587)
             server.starttls()
             server.login(sender, password)
-            for i in range(20):
-                server.sendmail(sender, receiver, f"Subject: {subject}\n\nPlease update the app!")
+            server.sendmail(sender, receiver, f"Subject: {subject}\n\nPlease update the app!")
             print(Fore.GREEN + "Update beg sent succesfully to the creator!")
             time.sleep(message_time)
             os.system("cls")
